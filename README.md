@@ -1,7 +1,7 @@
 # Machine Learning Regression Model
 The main objective of this project is to demonstrate my skills in solving business challenges through my knowledge and tools of Data Science.
 <p align='center'>
-    <img src='telegram.jpg' style="width:50px"
+    <img src='telegram.jpg' style="width:10px"
  <
 </p>
 
@@ -29,5 +29,6 @@ What is it? It shows how far predictions fall from measured true values using Eu
 
 ## **Deployment solution:**
 @ Heroku
+
 A telegram bot , enter the store code and receive the predition.
 
