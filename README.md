@@ -1,7 +1,7 @@
 # Machine Learning Regression Model
 The main objective of this project is to demonstrate my skills in solving business challenges through my knowledge and tools of Data Science.
 <p align='center'>
-    <img src='telegram.jpg' style="width:0.05rem"
+    <img src='telegram.jpg' style="width:50px"
  <
 </p>
 
@@ -27,7 +27,7 @@ What is it? It´s like MAE but in percentage.
 
 What is it? It shows how far predictions fall from measured true values using Euclidean distance. In other words, in the presented model, the prediction varies around $ 957,77 comparing to real values.
 
-Deployment solution:
+## **Deployment solution:**
 @ Heroku
 A telegram bot , enter the store code and receive the predition.
 
