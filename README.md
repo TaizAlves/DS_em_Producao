@@ -1,7 +1,7 @@
 # Machine Learning Regression Model
 The main objective of this project is to demonstrate my skills in solving business challenges through my knowledge and tools of Data Science.
 <p align='center'>
-    <img src='telegram.jpg' style="width:0.2rem"
+    <img src='telegram.jpg' style="width:0.05rem"
  <
 </p>
 
