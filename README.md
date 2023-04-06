@@ -1,8 +1,8 @@
 # Machine Learning Regression Model
 The main objective of this project is to demonstrate my skills in solving business challenges through my knowledge and tools of Data Science.
 <p align='center'>
-    <img src='telegram.jpg' style="width:10px"
- <
+    <img src="telegram.jpg" style="width:10px"/>
+  
 </p>
 
 In this project, I developed a Machine Learning regression predictive model able to predict daily sales for up to six weeks in advance. 
@@ -10,7 +10,7 @@ In this project, I developed a Machine Learning regression predictive model able
 
 <p align='center'>
 
-    <img src="predictions_example.png" style='width:1rem, ; margin-top:30px' />
+    <img src="predictions_example.png" style="width:1rem, ; margin-top:30px" />
  
 </p>
 
