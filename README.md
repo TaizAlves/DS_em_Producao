@@ -9,7 +9,8 @@ In this project, I developed a Machine Learning regression predictive model able
 ## **Implemented Model**: XGBoost , a supervised regression models , gradient boosting implementation (ensemble machine learning algorithms).
 
 <p align='center'>
-    <img src='./predictions_example.png' style="width:1rem"
+
+    <img src="predictions_example.png" style="width:1rem, ; margin-top:30px" />
  <
 </p>
 
