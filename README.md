@@ -1,7 +1,7 @@
 # Machine Learning Regression Model
 The main objective of this project is to demonstrate my skills in solving business challenges through my knowledge and tools of Data Science.
 <h1 align="center">
-    <img src="telegram.jpg" style="width:10px"/>
+    <img src="../telegram.jpg" style="width:10px"/>
   
 </h1>
 
@@ -10,7 +10,7 @@ In this project, I developed a Machine Learning regression predictive model able
 ## **Implemented Model**: XGBoost , a supervised regression models , gradient boosting implementation (ensemble machine learning algorithms).
 <h1 align='center'>
 
-    <img src="predictions_example.PNG" style="width:1rem, ; margin-top:30px" />
+    <img src="./predictions_example.png" style="width:1rem, ; margin-top:30px" />
  
 </h1>
 
