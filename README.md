@@ -11,7 +11,7 @@ In this project, I developed a Machine Learning regression predictive model able
 <p align='center'>
 
     <img src="predictions_example.png" style="width:1rem, ; margin-top:30px" />
- <
+ 
 </p>
 
 
